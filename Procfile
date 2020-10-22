@@ -1,0 +1,1 @@
+web: gunicron config.wsgi --log-file -
